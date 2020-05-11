@@ -14,3 +14,6 @@ STEP 3: `Train` the model and don't switch tabs while training.
 STEP 4: `Download Model` using export option and paste the model files to `app\src\assets`
 
 STEP 5: `Run` the application!.
+
+
+## Screenshots
