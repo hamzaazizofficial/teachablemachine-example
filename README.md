@@ -1,7 +1,7 @@
 # TensorFlow Lite image classification Android example application using Teachable Machine
 
 ## NOTE: 
-I haven't made this app by my own i just made some changes to <a href="https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android"> TFlite Image Classification App</a>
+I haven't made this app by my own i just made some changes to <a href="https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android"> TFlite Image Classification App</a> and added my own model using Google's Teachable Machine.
 
 
 # How to make our own Model using custom Dataset ?
