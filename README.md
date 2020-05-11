@@ -18,6 +18,6 @@ STEP 5: `Run` the application!.
 
 ## Screenshots
 
-<img src="https://github.com/hamzaazizofficial/teachablemachine-example/blob/master/screenshot%20(1).jpg" width=420 height=400/>
+<img src="https://github.com/hamzaazizofficial/teachablemachine-example/blob/master/screenshot%20(1).jpg" width=420 height=400 align="left"/>
 <img src="https://github.com/hamzaazizofficial/teachablemachine-example/blob/master/screenshot%20(2).jpg" width=420 height=400/>
 <img src="https://github.com/hamzaazizofficial/teachablemachine-example/blob/master/screenshot%20(3).jpg" width=420 height=400/>
